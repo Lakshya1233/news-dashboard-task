@@ -15,7 +15,7 @@ A responsive dashboard application with news API integration and payout manageme
 ## Demo Credentials
 
 - **Regular User**: Any email/password
-- **Admin Access**: admin@example.com / any password
+- **Admin Access**: admin@example.com / admin123
 
 ## Getting Started
 
